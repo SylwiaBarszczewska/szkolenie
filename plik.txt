@@ -1,1 +1,3 @@
 Inna nazwa tego pliku nadpisze w nim zmiany.
+
+Dodanie nowej, eksperymentalnej funkcjonalności.
